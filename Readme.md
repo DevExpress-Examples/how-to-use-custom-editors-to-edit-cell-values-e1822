@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/AgDataGrid_CustomEditors/MainPage.xaml) (VB: [MainPage.xaml](./VB/AgDataGrid_CustomEditors/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AgDataGrid_CustomEditors/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AgDataGrid_CustomEditors/MainPage.xaml))
+<!-- default file list end -->
 # How to Use Custom Editors to Edit Cell Values
 
 
